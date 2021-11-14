@@ -1,0 +1,12 @@
+.container-in {
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    border-bottom: 10px solid blue;
+}
+
+.header-title {
+    margin-left: 1rem;
+}
+

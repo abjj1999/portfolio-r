@@ -1,0 +1,18 @@
+.footers {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border-top: 4px solid blue;
+}
+
+.links {
+    padding: 1rem;
+    
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.link-items {
+    padding: 1rem;
+}

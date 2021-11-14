@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px 0;
+}
+
+.item-link {
+    text-decoration: none;
+    align-content: center;
+}
+
