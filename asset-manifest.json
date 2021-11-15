@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio-r/static/css/main.6c57627c.chunk.css",
+    "main.js": "/portfolio-r/static/js/main.0bf6b0eb.chunk.js",
+    "main.js.map": "/portfolio-r/static/js/main.0bf6b0eb.chunk.js.map",
+    "runtime-main.js": "/portfolio-r/static/js/runtime-main.269376ed.js",
+    "runtime-main.js.map": "/portfolio-r/static/js/runtime-main.269376ed.js.map",
+    "static/css/2.383c0125.chunk.css": "/portfolio-r/static/css/2.383c0125.chunk.css",
+    "static/js/2.84c224d2.chunk.js": "/portfolio-r/static/js/2.84c224d2.chunk.js",
+    "static/js/2.84c224d2.chunk.js.map": "/portfolio-r/static/js/2.84c224d2.chunk.js.map",
+    "index.html": "/portfolio-r/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/portfolio-r/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.6c57627c.chunk.css.map": "/portfolio-r/static/css/main.6c57627c.chunk.css.map",
+    "static/js/2.84c224d2.chunk.js.LICENSE.txt": "/portfolio-r/static/js/2.84c224d2.chunk.js.LICENSE.txt",
+    "static/media/cryptobrain.b0d4f637.PNG": "/portfolio-r/static/media/cryptobrain.b0d4f637.PNG",
+    "static/media/me.d9337293.jpg": "/portfolio-r/static/media/me.d9337293.jpg",
+    "static/media/moviewiki1.8d7a5921.jpg": "/portfolio-r/static/media/moviewiki1.8d7a5921.jpg",
+    "static/media/reploy.02dda5d8.jpg": "/portfolio-r/static/media/reploy.02dda5d8.jpg",
+    "static/media/resume.5000eacb.pdf": "/portfolio-r/static/media/resume.5000eacb.pdf",
+    "static/media/todo.af9ed967.PNG": "/portfolio-r/static/media/todo.af9ed967.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.269376ed.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.84c224d2.chunk.js",
+    "static/css/main.6c57627c.chunk.css",
+    "static/js/main.0bf6b0eb.chunk.js"
+  ]
+}
